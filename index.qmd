@@ -1,0 +1,22 @@
+
+---
+title: "JiaHui (Emmy) Su"
+image: profile.jpg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/emmy-su-662093314/
+    - text: GitHub
+      href: https://github.com/emmys02
+    - text: Email
+      href: mailto:Emmy02@g.ucla.edu
+---
+        
+
+I am currently a senior at University of California, Los Angeles *(UCLA)* pursuing a Bachelor of Science in Statistics & Data Science, with an expected graduation in June 2025. My academic coursework has provided a solid foundation in data analysis, statistical modeling, and programming, while my professional experiences have honed my ability to apply these skills in real-world contexts. Through various internships and projects, I have gained practical expertise in financial analysis, data management, and problem-solving, equipping me with the tools to thrive in dynamic, data-driven environments.
+
+You can view my full resume here [CV](cv.pdf "CV")

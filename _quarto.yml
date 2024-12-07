@@ -1,0 +1,36 @@
+project:
+  type: website
+  execute-dir: project
+
+website:
+  title: "JiaHui Su"
+  reader-mode: true
+  navbar:
+    title: false
+    background: white
+    foreground: "gray-800"
+    collapse-below: sm  
+    search: false  
+    left:
+      - href: index.qmd
+        text: About
+      - href: Projects.qmd
+        text: Projects
+  page-footer:
+    right: "&copy; 2024, JiaHui Su"
+
+format:
+  html:
+    theme:
+      - sandstone
+      - styles.scss
+    toc: true
+    page-layout: full
+    published-title: "last updated"
+    reference-location: document
+    code-fold: false
+    code-summary: ""
+    format:
+
+execute:
+  freeze: auto

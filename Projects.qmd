@@ -1,0 +1,27 @@
+---
+title: "Projects"
+format:
+  html:
+    toc: true
+    page-layout: full
+---
+
+Welcome to my projects page! Below, you'll find a selection of projects that showcase my skills and experience.
+
+------------------------------------------------------------------------
+
+## World Happiness Analysis
+
+This project explores the factors contributing to world happiness using data visualization and statistical analysis.
+
+**Key Highlights**: - Analysis of global happiness trends. - Insights into economic, social, and health indicators.
+
+[View the Full Project](skeleton.html)
+
+## Housing Price Prediction in Sindian District
+
+**Description**: This project investigates housing prices in Sindian District using multiple linear regression to determine significant predictors, such as proximity to MRT stations and convenience stores.
+
+**Key Highlights**: - Data from 414 instances analyzed. - Significant predictors include transaction date, house age, MRT distance, store distance, and latitude. - Final model improved Adjusted R-squared and F-statistic after removing outliers.
+
+[Read the Full Report (PDF)](house_cost.pdf)
